@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaekJongSeong%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 This is a project to create a web page that lists current real-time issues (topics) about things happening in Korea by ranking.
 
 ## 한국에서 발생하는 일들에 대한 현재 실시간 이슈(토픽)을 집계하여, 순위별로 나열된 웹페이지를 만드는 프로젝트입니다.
