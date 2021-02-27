@@ -5,8 +5,6 @@ This is a project to create a web page that lists current real-time issues (topi
 프로젝트 개요는 다음과 같습니다
 ---
 Naver: "실시간 검색어(폐지)"
-        gksk
-        enf
 My project: category 별로 추가 
 ---
 기존 실시간 검색어 서비스
