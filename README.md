@@ -26,3 +26,5 @@ This is a project to create a web page that lists current real-time issues (topi
  
 + 진행방식
   + 랭킹 차트(조회수 / comment 수를 통해 시작)
+
+![2021-02-27-naver_news](https://user-images.githubusercontent.com/79182947/109386605-0cd33180-793f-11eb-857c-23aba6b74003.png)
