@@ -5,6 +5,7 @@ This is a project to create a web page that lists current real-time issues (topi
 글 읽는 순서
 1. 이 repository의 readme 파일
 2. github.io의 글 https://baekjongseong.github.io/news_crawl/
+3. repository 핵심 파일들 추후 업데이트 
 ---
 프로젝트 핵심은 다음과 같습니다 
 기존 Naver 실시간 검색어 서비스 폐지(2021.02.25)에 따른 불편함을 해소해보고자 직접 구현한 실시간 토픽 서비스
